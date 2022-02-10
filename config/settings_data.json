@@ -1,12 +1,14 @@
 {
   "current": {
     "colors_solid_button_labels": "#e60a62",
-    "colors_accent_1": "#918d8d",
+    "colors_accent_1": "#ccff7c",
     "gradient_accent_1": "linear-gradient(127deg, rgba(254, 217, 81, 1) 11%, rgba(255, 70, 199, 1) 81%)",
-    "colors_accent_2": "#ccff7c",
+    "colors_accent_2": "#fd8f09",
     "gradient_accent_2": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
-    "colors_background_1": "#fff",
-    "colors_background_2": "#918d8d",
+    "colors_text": "#121212",
+    "colors_outline_button_labels": "#e60a62",
+    "colors_background_1": "#c7c4c4",
+    "colors_background_2": "#0ae4e6",
     "type_header_font": "antique_olive_n7",
     "accent_icons": "accent-2",
     "social_facebook_link": "https:\/\/facebook.com\/shopify",
